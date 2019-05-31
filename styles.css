@@ -1,0 +1,27 @@
+body{
+background:#eff1f4;
+
+}
+.axis line,
+.axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+.obs{
+margin-top:10px;
+background:#e1e4e8;
+height:30px;
+color:red;
+font-weight:bold;
+font-size:18px;
+
+}
+.obs1{
+margin-top:10px;
+background:#e1e4e8;
+height:70px;
+color:red;
+font-weight:bold;
+font-size:18px;
+}
